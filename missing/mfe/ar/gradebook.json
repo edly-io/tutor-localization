@@ -1,0 +1,7 @@
+{
+  "gradebook.page.title": "Gradebook | {siteName}",
+  "gradebook.GradebookFilters.apply": "Apply",
+  "gradebook.GradesTab.usersVisibilityLabel": "Showing {filteredUsers} of {totalUsers} total learners",
+  "gradebook.GradesView.table.headings.fullName": "Full Name",
+  "gradebook.GradesView.table.noResultsFound": "No results found"
+}

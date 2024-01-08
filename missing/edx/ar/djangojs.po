@@ -1,0 +1,825 @@
+# edX community translations have been downloaded from Arabic (http://app.transifex.com/open-edx/edx-platform/language/ar/).
+# Copyright (C) 2023 EdX
+# This file is distributed under the GNU AFFERO GENERAL PUBLIC LICENSE.
+#
+# Translators:
+# Abdallah Nassif <a.nassif012@gmail.com>, 2013
+# abdallah.nassif <abdallah_n@hotmail.com>, 2013
+# Abdallah Nassif <a.nassif012@gmail.com>, 2013-2014
+# abdallah.nassif <abdallah_n@hotmail.com>, 2013
+# Abdelmageed Ismail <mido.a@hotmail.com>, 2014
+# Abderraouf Mehdi Bouhali <armbouhali@gmail.com>, 2022
+# Abdullatif El Ali <abdullatifalali@gmail.com>, 2014
+# Ali Hasan <ahasan@qrf.org>, 2016
+# Ahmad AbdArrahman <mygooglizer@gmail.com>, 2013
+# Ahmad AbdArrahman <mygooglizer@gmail.com>, 2013
+# Ahmed Jazzar <ahmed.mojaz@gmail.com>, 2015
+# Ahmed Jazzar <ahmed.mojaz@gmail.com>, 2015
+# Ahmed Jazzar <ahmed.mojaz@gmail.com>, 2015-2016
+# 11e20772453a5447f86b653d16e71bd3_f829fca <fc1a175da0e051e8f2220ae4e8c37e82_372655>, 2016
+# 11e20772453a5447f86b653d16e71bd3_f829fca <fc1a175da0e051e8f2220ae4e8c37e82_372655>, 2016
+# Ali Hasan <ahasan@qrf.org>, 2016
+# 6e68c7971a89e50e680ae9444d303c8f, 2016-2017
+# AR R1 <e2far1@hotmail.com>, 2016
+# ayshibly <ayshibly@gmail.com>, 2014
+# ayshibly <ayshibly@gmail.com>, 2014
+# Belal A. Nwiran <bnwiran@gmail.com>, 2015
+# br1ng <ibnalawam@gmail.com>, 2014
+# Diana Huang <dkh@edx.org>, 2022
+# e2f_ar r3 <e2f_ar_r3@outlook.com>, 2016-2017
+# e2f_ar t3 <e2f_ar_t3@outlook.com>, 2016
+# faisal wazir <alwazir95business@gmail.com>, 2020
+# Ghassan Maslamani <ghassan.maslamani@gmail.com>, 2021
+# Hassan Husseini <hassan@constructeducation.com>, 2020
+# br1ng <ibnalawam@gmail.com>, 2014
+# Jad Freij <jkfreij@gmail.com>, 2014
+# Jad Freij <jkfreij@gmail.com>, 2014
+# Khaled Jalajel <khaledjalajeldode@gmail.com>, 2015
+# Mahmoud Elkhateeb <eng.elkhteeb@gmail.com>, 2013
+# Mahmoud Elkhateeb <eng.elkhteeb@gmail.com>, 2013
+# may <may@qordoba.com>, 2013
+# may <may@qordoba.com>, 2013-2015
+# Abdelmageed Ismail <mido.a@hotmail.com>, 2014
+# wd3bbas <mohed.alabbas@gmail.com>, 2014
+# Nabeel El-Dughailib <nabeel@qordoba.com>, 2014-2015
+# Najwan Al Rousan <najwanrousan@gmail.com>, 2013
+# Najwan Al Rousan <najwanrousan@gmail.com>, 2013
+# Ned Batchelder <ned@edx.org>, 2015-2016
+# NELC Open edX Translation <openedx@elc.edu.sa>, 2020-2021
+# Omar Al-Ithawi <omar.al.dolaimy@gmail.com>, 2015-2016
+# Roaa Nader <roaanader002005@gmail.com>, 2021
+# Sahbi BG <sahbi.g@gmail.com>, 2017
+# Sahbi BG <sahbi.g@gmail.com>, 2017
+# Saramami.mami <saramami.mami@yahoo.com>, 2014
+# Saramami.mami <saramami.mami@yahoo.com>, 2014
+# Shadi Naif <shadinaif@gmail.com>, 2019
+# shefaa abu jabel <shefaa.aj@gmail.com>, 2016-2017
+# SiddigSami <siddigsami@live.com>, 2014-2015
+# Soha Assali <soha+transifex@qordoba.com>, 2015-2016
+# Tariq Hamid <ou63@outlook.com>, 2015
+# Tim McCormack, 2022
+# wd3bbas <mohed.alabbas@gmail.com>, 2014
+# Zakaria <zakaria.braksa@gmail.com>, 2015
+# #-#-#-#-#  djangojs-studio.po (edx-platform)  #-#-#-#-#
+# edX community translations have been downloaded from Arabic (http://app.transifex.com/open-edx/edx-platform/language/ar/).
+# Copyright (C) 2023 EdX
+# This file is distributed under the GNU AFFERO GENERAL PUBLIC LICENSE.
+#
+# Translators:
+# 6e68c7971a89e50e680ae9444d303c8f, 2016
+# Abdallah Nassif <a.nassif012@gmail.com>, 2013
+# abdallah.nassif <abdallah_n@hotmail.com>, 2013
+# Abdallah Nassif <a.nassif012@gmail.com>, 2013,2015
+# Abdelghani Gadiri <wh.gnu.linux@gmail.com>, 2014
+# Ahmad AbdArrahman <mygooglizer@gmail.com>, 2013
+# Ahmad AbdArrahman <mygooglizer@gmail.com>, 2013
+# Ahmed Jazzar <ahmed.mojaz@gmail.com>, 2015
+# Ahmed Jazzar <ahmed.mojaz@gmail.com>, 2015
+# Ahmed Jazzar <ahmed.mojaz@gmail.com>, 2015-2016
+# 6e68c7971a89e50e680ae9444d303c8f, 2016
+# AR R1 <e2far1@hotmail.com>, 2016
+# e2f_ar r3 <e2f_ar_r3@outlook.com>, 2016-2017
+# e2f_ar t3 <e2f_ar_t3@outlook.com>, 2016
+# Ghassan Maslamani <ghassan.maslamani@gmail.com>, 2023
+# Hassan Husseini <hassan@constructeducation.com>, 2020
+# Mahmoud Elkhateeb <eng.elkhteeb@gmail.com>, 2013
+# Mahmoud Elkhateeb <eng.elkhteeb@gmail.com>, 2013
+# may <may@qordoba.com>, 2013
+# may <may@qordoba.com>, 2014-2015
+# Nabeel El-Dughailib <nabeel@qordoba.com>, 2014-2015
+# Najwan Al Rousan <najwanrousan@gmail.com>, 2013
+# Najwan Al Rousan <najwanrousan@gmail.com>, 2013
+# Nashwan Naji <nashwanameen@gmail.com>, 2016
+# Natalia Berdnikov <nberdnikov@edx.org>, 2016
+# NELC Open edX Translation <openedx@elc.edu.sa>, 2020
+# RaghadG <raghad_g@yahoo.com>, 2014
+# RaghadG <raghad_g@yahoo.com>, 2014
+# Roaa Nader <roaanader002005@gmail.com>, 2021
+# Sahbi BG <sahbi.g@gmail.com>, 2017
+# Sahbi BG <sahbi.g@gmail.com>, 2017
+# Shadi Naif <shadinaif@gmail.com>, 2019
+# shefaa abu jabel <shefaa.aj@gmail.com>, 2016
+# Soha Assali <soha+transifex@qordoba.com>, 2015-2016
+# soliman osman <solimanosman@windowslive.com>, 2014-2015
+# #-#-#-#-#  djangojs-account-settings-view.po (0.1a)  #-#-#-#-#
+# edX community translations have been downloaded from Arabic (https://app.transifex.com/open-edx/teams/6205/ar/).
+# Copyright (C) 2023 EdX
+# This file is distributed under the GNU AFFERO GENERAL PUBLIC LICENSE.
+# EdX Team <info@edx.org>, 2023.
+#
+# Translators:
+# Ahmed Jazzar <ahmed.mojaz@gmail.com>, 2019
+# NELC Open edX Translation <openedx@elc.edu.sa>, 2021
+# Abderraouf Mehdi Bouhali <armbouhali@gmail.com>, 2022
+#
+# #-#-#-#-#  underscore.po (edx-platform)  #-#-#-#-#
+# edX community translations have been downloaded from Arabic (http://app.transifex.com/open-edx/edx-platform/language/ar/)
+# Copyright (C) 2023 edX
+# This file is distributed under the GNU AFFERO GENERAL PUBLIC LICENSE.
+#
+# Translators:
+# 6e68c7971a89e50e680ae9444d303c8f, 2016
+# Abdallah Nassif <a.nassif012@gmail.com>, 2016
+# Abdelghani Gadiri <wh.gnu.linux@gmail.com>, 2014
+# Abderraouf Mehdi Bouhali <armbouhali@gmail.com>, 2022
+# Ali Hasan <ahasan@qrf.org>, 2014,2016
+# Ahmad <reload_cobra2@yahoo.com>, 2015
+# ahmed hai <a7medpeace@gmail.com>, 2017
+# Ahmed Jazzar <ahmed.mojaz@gmail.com>, 2015
+# Ahmed Jazzar <ahmed.mojaz@gmail.com>, 2015
+# Ahmed Jazzar <ahmed.mojaz@gmail.com>, 2015-2016
+# 11e20772453a5447f86b653d16e71bd3_f829fca <fc1a175da0e051e8f2220ae4e8c37e82_372655>, 2016
+# 11e20772453a5447f86b653d16e71bd3_f829fca <fc1a175da0e051e8f2220ae4e8c37e82_372655>, 2016
+# Ali Hasan <ahasan@qrf.org>, 2014,2016
+# 6e68c7971a89e50e680ae9444d303c8f, 2016
+# mohammad hamdi <babrica@hotmail.com>, 2014
+# e2f_ar r3 <e2f_ar_r3@outlook.com>, 2017
+# e2f_ar t3 <e2f_ar_t3@outlook.com>, 2016
+# Emad Ahmad Alghamdi <eaalghamdi@kau.edu.sa>, 2015
+# Hassan Husseini <hassan@constructeducation.com>, 2020
+# Khaled Abdel wahab <engkhaledabdelwahab@gmail.com>, 2015
+# may <may@qordoba.com>, 2014-2015
+# mohammad hamdi <babrica@hotmail.com>, 2014
+# Nabeel El-Dughailib <nabeel@qordoba.com>, 2014-2015
+# Natalia Berdnikov <nberdnikov@edx.org>, 2016
+# Ned Batchelder <ned@edx.org>, 2016
+# NELC Open edX Translation <openedx@elc.edu.sa>, 2020
+# Omar Al-Ithawi <omar.al.dolaimy@gmail.com>, 2015-2016
+# Rama Alshebel, 2021
+# Sahbi BG <sahbi.g@gmail.com>, 2017
+# Sahbi BG <sahbi.g@gmail.com>, 2017
+# shefaa abu jabel <shefaa.aj@gmail.com>, 2016-2017
+# Soha Assali <soha+transifex@qordoba.com>, 2015-2016
+# سيف المنايا <m2fahad9@gmail.com>, 2015
+# #-#-#-#-#  underscore-studio.po (edx-platform)  #-#-#-#-#
+# edX community translations have been downloaded from Arabic (http://app.transifex.com/open-edx/edx-platform/language/ar/)
+# Copyright (C) 2023 edX
+# This file is distributed under the GNU AFFERO GENERAL PUBLIC LICENSE.
+#
+# Translators:
+# 6e68c7971a89e50e680ae9444d303c8f, 2016
+# Abdallah Nassif <a.nassif012@gmail.com>, 2014
+# Abderraouf Mehdi Bouhali <armbouhali@gmail.com>, 2022
+# Ali Hasan <ahasan@qrf.org>, 2016
+# Ahmed Jazzar <ahmed.mojaz@gmail.com>, 2015
+# Ahmed Jazzar <ahmed.mojaz@gmail.com>, 2015
+# Ahmed Jazzar <ahmed.mojaz@gmail.com>, 2015-2016
+# 11e20772453a5447f86b653d16e71bd3_f829fca <fc1a175da0e051e8f2220ae4e8c37e82_372655>, 2016
+# 11e20772453a5447f86b653d16e71bd3_f829fca <fc1a175da0e051e8f2220ae4e8c37e82_372655>, 2016
+# Ali Hasan <ahasan@qrf.org>, 2016
+# Anouar Benyaiche <anouar1_ben@hotmail.com>, 2020
+# 6e68c7971a89e50e680ae9444d303c8f, 2016
+# e2f_ar t3 <e2f_ar_t3@outlook.com>, 2016
+# Hassan Husseini <hassan@constructeducation.com>, 2020
+# Juan Camilo Montoya Franco <juan.montoya@edunext.co>, 2017
+# may <may@qordoba.com>, 2014-2015
+# Mohamed Ibrahim <root.php@hotmail.com>, 2015
+# wd3bbas <mohed.alabbas@gmail.com>, 2014
+# Nabeel El-Dughailib <nabeel@qordoba.com>, 2014-2015
+# Ned Batchelder <ned@edx.org>, 2016-2017
+# NELC Open edX Translation <openedx@elc.edu.sa>, 2020
+# Omar Al-Ithawi <omar.al.dolaimy@gmail.com>, 2015-2016
+# Rama Alshebel, 2021
+# Roaa Nader <roaanader002005@gmail.com>, 2021
+# Sahbi BG <sahbi.g@gmail.com>, 2017
+# Saramami.mami <saramami.mami@yahoo.com>, 2014
+# Saramami.mami <saramami.mami@yahoo.com>, 2014
+# shefaa abu jabel <shefaa.aj@gmail.com>, 2016-2017
+# Soha Assali <soha+transifex@qordoba.com>, 2015-2016
+# waeldaoud2014 <wael.daoud@hotmail.com>, 2017
+# waeldaoud2014 <wael.daoud@hotmail.com>, 2017
+# wd3bbas <mohed.alabbas@gmail.com>, 2014
+msgid ""
+msgstr ""
+"Project-Id-Version: edx-platform\n"
+"Report-Msgid-Bugs-To: openedx-translation@googlegroups.com\n"
+"POT-Creation-Date: 2023-09-17 20:42+0000\n"
+"PO-Revision-Date: 2014-06-11 15:18+0000\n"
+"Last-Translator: Abderraouf Mehdi Bouhali <armbouhali@gmail.com>, 2022\n"
+"Language-Team: Arabic (http://app.transifex.com/open-edx/edx-platform/"
+"language/ar/)\n"
+"Language: ar\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 "
+"&& n%100<=10 ? 3 : n%100>=11 && n%100<=99 ? 4 : 5;\n"
+"Generated-By: Babel 2.8.0\n"
+
+#: common/static/common/js/components/BlockBrowser/components/BlockBrowser/BlockBrowser.jsx
+msgid "Browsing"
+msgstr ""
+
+#: lms/djangoapps/support/static/support/jsx/logged_in_user.jsx
+msgid "Details"
+msgstr ""
+
+#: lms/djangoapps/support/static/support/jsx/logged_in_user.jsx
+msgid "the more quickly and helpfully we can respond!"
+msgstr ""
+
+#: lms/djangoapps/support/static/support/jsx/logged_in_user.jsx
+msgid "Create Support Ticket"
+msgstr ""
+
+#: lms/djangoapps/support/static/support/jsx/logged_in_user.jsx
+msgid "What can we help you with, {username}?"
+msgstr ""
+
+#: lms/djangoapps/support/static/support/jsx/logged_out_user.jsx
+msgid "Need help logging in?"
+msgstr ""
+
+#: lms/static/js/demographics_collection/DemographicsCollectionModal.jsx
+msgid "Why does edX collect this information?"
+msgstr ""
+
+#: lms/static/js/demographics_collection/DemographicsCollectionModal.jsx
+msgid ""
+"An error occurred while attempting to retrieve or save the information "
+"below. Please try again later."
+msgstr ""
+
+#: lms/static/js/demographics_collection/DemographicsCollectionModal.jsx
+msgid ""
+"What was the total combined income, during the last 12 months, of all "
+"members of your family? "
+msgstr ""
+
+#: lms/static/js/demographics_collection/DemographicsCollectionModal.jsx
+msgid ""
+"Have you ever served on active duty in the U.S. Armed Forces, Reserves, or "
+"National Guard?"
+msgstr ""
+
+#: lms/static/js/demographics_collection/DemographicsCollectionModal.jsx
+msgid "Select military status"
+msgstr ""
+
+#: lms/static/js/demographics_collection/DemographicsCollectionModal.jsx
+msgid "Select level of education"
+msgstr ""
+
+#: lms/static/js/demographics_collection/DemographicsCollectionModal.jsx
+msgid "Select guardian education"
+msgstr ""
+
+#: lms/static/js/demographics_collection/DemographicsCollectionModal.jsx
+msgid "Select current industry"
+msgstr ""
+
+#: lms/static/js/demographics_collection/DemographicsCollectionModal.jsx
+msgid "Select prospective industry"
+msgstr ""
+
+#: lms/static/js/demographics_collection/DemographicsCollectionModal.jsx
+msgid "Thank you! You’re helping make edX better for everyone."
+msgstr ""
+
+#: lms/static/js/demographics_collection/Wizard.jsx
+msgid "finish later"
+msgstr ""
+
+#: lms/static/js/demographics_collection/Wizard.jsx
+msgid "Return to my dashboard"
+msgstr ""
+
+#: lms/static/js/demographics_collection/Wizard.jsx
+msgid "Finish later"
+msgstr ""
+
+#: lms/static/js/demographics_collection/Wizard.jsx
+msgid "next page"
+msgstr ""
+
+#: lms/static/js/groups/views/cohort_editor.js
+msgid "Cohort assignment not allowed: {email_or_username}"
+msgstr ""
+
+#. Translators: A list of users appears after this sentence;
+#: lms/static/js/instructor_dashboard/membership.js
+msgid ""
+"Email cannot be sent to the following users via batch enrollment. They will "
+"be allowed to enroll once they register:"
+msgstr ""
+
+#. Translators: A list of users appears after this sentence;
+#: lms/static/js/instructor_dashboard/membership.js
+msgid ""
+"Email cannot be sent to the following users via batch enrollment. They will "
+"be enrolled once they register:"
+msgstr ""
+
+#: lms/static/js/learner_dashboard/EnterpriseLearnerPortalModal.jsx
+msgid "You have access to the {enterpriseName} dashboard"
+msgstr ""
+
+#: lms/static/js/learner_dashboard/RecommendationsPanel.jsx
+msgid "Recommendations for you"
+msgstr ""
+
+#: lms/static/js/learner_dashboard/RecommendationsPanel.jsx
+msgid "loading"
+msgstr ""
+
+#: lms/static/js/learner_dashboard/RecommendationsPanel.jsx
+msgid ""
+"Browse recently launched courses and see what's new in your favorite "
+"subjects."
+msgstr ""
+
+#: lms/static/js/learner_dashboard/RecommendationsPanel.jsx
+msgid "Explore courses"
+msgstr ""
+
+#: lms/static/js/learner_dashboard/Static2UCallouts.jsx
+msgid "More opportunities for you"
+msgstr ""
+
+#: lms/static/js/learner_dashboard/Static2UCallouts.jsx
+msgid " to learn"
+msgstr ""
+
+#: lms/static/js/learner_dashboard/Static2UCallouts.jsx
+msgid ""
+"We've added 500+ learning opportunities to create one of the world's most "
+"comprehensive free-to-degree online learning platforms."
+msgstr ""
+
+#: lms/static/js/learner_dashboard/models/program_subscription_model.js
+msgid "${price}/month {currency}"
+msgstr ""
+
+#: lms/static/js/learner_dashboard/views/program_alert_list_view.js
+msgid "View program"
+msgstr ""
+
+#: lms/static/js/learner_dashboard/views/program_alert_list_view.js
+msgid "Enroll in a {programName}'s course"
+msgstr ""
+
+#: lms/static/js/learner_dashboard/views/program_alert_list_view.js
+msgid ""
+"You have an active subscription to the {programName} program but are not "
+"enrolled in any courses. Enroll in a remaining course and enjoy verified "
+"access."
+msgstr ""
+
+#: lms/static/js/learner_dashboard/views/program_alert_list_view.js
+msgid ""
+"According to our records, you are not enrolled in any courses included in "
+"your {programName} program subscription. Enroll in a course from the "
+"{i_start}Program Details{i_end} page."
+msgstr ""
+
+#: lms/static/js/learner_dashboard/views/program_alert_list_view.js
+msgid "Subscription trial expires in less than 24 hours"
+msgstr ""
+
+#: lms/static/js/learner_dashboard/views/program_alert_list_view.js
+msgid "Subscription trial expires in {remainingDays} day"
+msgid_plural "Subscription trial expires in {remainingDays} days"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+msgstr[3] ""
+msgstr[4] ""
+msgstr[5] ""
+
+#: lms/static/js/learner_dashboard/views/program_alert_list_view.js
+msgid ""
+"Your {programName} trial will expire at {trialEndTime} on {trialEndDate} and "
+"the card on file will be charged {subscriptionPrice}."
+msgstr ""
+
+#: lms/static/js/learner_dashboard/views/program_alert_list_view.js
+msgid ""
+"Your {programName} trial will expire in {remainingDays} day at "
+"{trialEndTime} on {trialEndDate} and the card on file will be charged "
+"{subscriptionPrice}."
+msgid_plural ""
+"Your {programName} trial will expire in {remainingDays} days at "
+"{trialEndTime} on {trialEndDate} and the card on file will be charged "
+"{subscriptionPrice}."
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+msgstr[3] ""
+msgstr[4] ""
+msgstr[5] ""
+
+#: lms/static/js/student_account/components/StudentAccountDeletion.jsx
+msgid "Before proceeding, please {htmlStart}{emailMsg}{htmlEnd}."
+msgstr ""
+
+#: xmodule/js/src/html/edit.js
+msgid ""
+"{paragraph}=p;{preformatted}=pre;{heading3}=h3;{heading4}=h4;{heading5}=h5;"
+"{heading6}=h6"
+msgstr ""
+
+#: cms/static/cms/js/main.js cms/static/js/views/active_video_upload_list.js
+#: cms/static/js/views/video_transcripts.js
+msgid ""
+"This may be happening because of an error with our server or your internet "
+"connection. Try refreshing the page or making sure you are online."
+msgstr ""
+
+#: cms/static/js/certificates/views/signatory_editor.js
+msgid "Delete \"<%- signatoryName %>\" from the list of signatories?"
+msgstr ""
+
+#: cms/static/js/features_jsx/studio/CourseOrLibraryListing.jsx
+msgid "Organization:"
+msgstr ""
+
+#: cms/static/js/features_jsx/studio/CourseOrLibraryListing.jsx
+msgid "Course Number:"
+msgstr ""
+
+#: cms/static/js/features_jsx/studio/CourseOrLibraryListing.jsx
+msgid "Course Run:"
+msgstr ""
+
+#: cms/static/js/features_jsx/studio/CourseOrLibraryListing.jsx
+msgid "(Read-only)"
+msgstr ""
+
+#: cms/static/js/features_jsx/studio/CourseOrLibraryListing.jsx
+msgid "Re-run Course"
+msgstr ""
+
+#: cms/static/js/models/settings/course_details.js
+msgid "The certificate display behavior must be one of: {behavior_options}"
+msgstr ""
+
+#: cms/static/js/models/settings/course_details.js
+msgid ""
+"The certificates display behavior must be {valid_option} if certificate "
+"available date is set."
+msgstr ""
+
+#: cms/static/js/models/settings/course_grader.js
+msgid "You must have at least one undroppable <%- types %> assignment."
+msgstr ""
+
+#: cms/static/js/models/uploads.js
+msgid ""
+"Only <%- fileTypes %> files can be uploaded. Please select a file ending in <"
+"%- (fileExtensions) %> to upload."
+msgstr ""
+
+#: cms/static/js/views/course_outline.js cms/static/js/views/pages/container.js
+msgid "Copying"
+msgstr ""
+
+#: cms/static/js/views/course_outline.js
+msgid "Copy of '{componentDisplayName}'"
+msgstr ""
+
+#: cms/static/js/views/course_outline.js cms/static/js/views/pages/container.js
+msgid "Pasting"
+msgstr ""
+
+#: cms/static/js/views/course_outline.js cms/static/js/views/pages/container.js
+msgid "Some errors occurred"
+msgstr ""
+
+#: cms/static/js/views/course_outline.js cms/static/js/views/pages/container.js
+msgid "The following required files could not be added to the course:"
+msgstr ""
+
+#: cms/static/js/views/course_outline.js cms/static/js/views/pages/container.js
+msgid "You may need to update a file(s) manually"
+msgstr ""
+
+#: cms/static/js/views/course_outline.js cms/static/js/views/pages/container.js
+msgid ""
+"The following files already exist in this course but don't match the version "
+"used by the component you pasted:"
+msgstr ""
+
+#: cms/static/js/views/course_outline.js cms/static/js/views/pages/container.js
+msgid "New file(s) added to Files & Uploads."
+msgstr ""
+
+#: cms/static/js/views/course_outline.js cms/static/js/views/pages/container.js
+msgid "The following required files were imported to this course:"
+msgstr ""
+
+#: cms/static/js/views/course_outline.js cms/static/js/views/pages/container.js
+msgid "View files"
+msgstr ""
+
+#: cms/static/js/views/course_outline.js cms/static/js/views/pages/container.js
+msgid "Dismiss"
+msgstr ""
+
+#: cms/static/js/views/edit_chapter.js
+msgid "Upload a new PDF to “<%- name %>”"
+msgstr ""
+
+#: cms/static/js/views/modals/edit_xblock.js
+msgid "Studio's having trouble parsing the problem component's content"
+msgstr ""
+
+#: cms/static/js/views/show_textbook.js
+msgid "Delete “<%- name %>”?"
+msgstr ""
+
+#: cms/static/js/views/utils/create_course_utils.js
+msgid ""
+"The combined length of the organization, course number, and course run "
+"fields cannot be more than <%- limit %> characters."
+msgstr ""
+
+#: cms/static/js/views/utils/create_library_utils.js
+msgid ""
+"The combined length of the organization and library code fields cannot be "
+"more than <%- limit %> characters."
+msgstr ""
+
+#: lms/templates/instructor/instructor_dashboard_2/certificate-allowlist.underscore
+msgid "Certificate exceptions group selection"
+msgstr ""
+
+#: lms/templates/learner_dashboard/explore_new_programs.underscore
+msgid "Explore new programs"
+msgstr ""
+
+#: lms/templates/learner_dashboard/program_card.underscore
+#: lms/templates/learner_dashboard/program_header_view.underscore
+msgid "Subscribed"
+msgstr ""
+
+#: lms/templates/learner_dashboard/program_details_sidebar.underscore
+msgid "Trial subscription"
+msgstr ""
+
+#: lms/templates/learner_dashboard/program_details_sidebar.underscore
+msgid "Active subscription"
+msgstr ""
+
+#: lms/templates/learner_dashboard/program_details_sidebar.underscore
+msgid "Inactive subscription"
+msgstr ""
+
+#: lms/templates/learner_dashboard/program_details_sidebar.underscore
+msgid ""
+"View your receipts or modify your subscription on the {a_start}Orders and "
+"subscriptions{a_end} page"
+msgstr ""
+
+#: lms/templates/learner_dashboard/program_details_sidebar.underscore
+msgid ""
+"Restart your subscription for {subscriptionPrice}. Your payment history is "
+"still available on the {a_start}Orders and subscriptions{a_end} page"
+msgstr ""
+
+#: lms/templates/learner_dashboard/program_details_sidebar.underscore
+msgid ""
+"If you had a subscription previously, your payment history is still "
+"available on the {a_start}Orders and subscriptions{a_end} page"
+msgstr ""
+
+#: lms/templates/learner_dashboard/program_details_sidebar.underscore
+msgid ""
+"Need help? Check out the {a_start}Learner Help Center{span_start}{icon}"
+"{span_end}{a_end} to troubleshoot issues or contact support"
+msgstr ""
+
+#: lms/templates/learner_dashboard/program_details_tab_view.underscore
+#: lms/templates/learner_dashboard/program_details_view.underscore
+#, python-format
+msgid ""
+"You have successfully completed all the requirements for the %(title)s "
+"%(type)s."
+msgstr ""
+
+#: lms/templates/learner_dashboard/program_details_tab_view.underscore
+#, python-format
+msgid ""
+"Track and plan your progress through the %(count)s course(s) in this "
+"program. To complete the program, you must earn a verified certificate for "
+"each course."
+msgstr ""
+
+#: lms/templates/learner_dashboard/program_details_tab_view.underscore
+#: lms/templates/learner_dashboard/program_details_view.underscore
+msgid "Manage my subscription"
+msgstr ""
+
+#: lms/templates/learner_dashboard/program_details_tab_view.underscore
+#: lms/templates/learner_dashboard/program_details_view.underscore
+msgid "Restart my subscription"
+msgstr ""
+
+#: lms/templates/learner_dashboard/program_details_tab_view.underscore
+#: lms/templates/learner_dashboard/program_details_view.underscore
+msgid "Start {trialLength}-day free trial"
+msgstr ""
+
+#: lms/templates/learner_dashboard/program_details_tab_view.underscore
+#: lms/templates/learner_dashboard/program_details_view.underscore
+msgid "Trial ends {trialEndDate} at {trialEndTime}"
+msgstr ""
+
+#: lms/templates/learner_dashboard/program_details_tab_view.underscore
+#: lms/templates/learner_dashboard/program_details_view.underscore
+msgid "Your next billing date is {currentPeriodEnd}"
+msgstr ""
+
+#: lms/templates/learner_dashboard/program_details_tab_view.underscore
+#: lms/templates/learner_dashboard/program_details_view.underscore
+msgid "{subscriptionPrice} subscription. Cancel anytime."
+msgstr ""
+
+#: lms/templates/learner_dashboard/program_details_tab_view.underscore
+#: lms/templates/learner_dashboard/program_details_view.underscore
+msgid "{subscriptionPrice} subscription after trial ends. Cancel anytime."
+msgstr ""
+
+#: lms/templates/learner_dashboard/program_details_tab_view.underscore
+#, python-format
+msgid "Transform your %(org)s %(type)s into a full master’s degree"
+msgstr ""
+
+#: lms/templates/learner_dashboard/program_details_tab_view.underscore
+#, python-format
+msgid ""
+"Successful completion of %(org)s %(program)s credential can be applied "
+"towards flexible, rigorous, and affordable masters degrees from the world’s "
+"leading universities."
+msgstr ""
+
+#: lms/templates/learner_dashboard/program_details_view.underscore
+#, python-format
+msgid ""
+"Track and plan your progress through the %(count)s courses in this program. "
+"To complete the program, you must earn a verified certificate for each "
+"course."
+msgstr ""
+
+#: lms/templates/learner_dashboard/program_list_header_view.underscore
+msgid "My programs"
+msgstr ""
+
+#: lms/templates/learner_dashboard/subscription_upsell_view.underscore
+msgid "New"
+msgstr ""
+
+#: lms/templates/learner_dashboard/subscription_upsell_view.underscore
+msgid "Monthly program subscriptions {emDash} more flexible, more affordable"
+msgstr ""
+
+#: lms/templates/learner_dashboard/subscription_upsell_view.underscore
+msgid ""
+"Now available for many popular programs, affordable monthly subscription "
+"pricing can help you manage your budget more effectively. Subscriptions "
+"start at {minSubscriptionPrice}/month USD per program, after a 7-day full "
+"access free trial. Cancel at any time."
+msgstr ""
+
+#: lms/templates/learner_dashboard/subscription_upsell_view.underscore
+msgid "Explore subscription options"
+msgstr ""
+
+#: lms/templates/learner_dashboard/upgrade_message_subscription.underscore
+msgid "Upgrade with a subscription"
+msgstr ""
+
+#: lms/templates/learner_dashboard/upgrade_message_subscription.underscore
+msgid "Pay {subscriptionPrice} for all courses in this program"
+msgstr ""
+
+#: lms/templates/learner_dashboard/upgrade_message_subscription.underscore
+msgid "Pay {subscriptionPrice} after {trialLength}-day free trial"
+msgstr ""
+
+#: cms/templates/js/course-outline.underscore
+msgid "Discussions enabled"
+msgstr ""
+
+#: cms/templates/js/course-outline.underscore
+msgid "Copy to Clipboard"
+msgstr ""
+
+#: cms/templates/js/course-outline.underscore
+#, python-format
+msgid ""
+"This subsection is configured as \\\"%(gradingType)s\\\", which doesn't "
+"exist in the current grading policy."
+msgstr ""
+
+#: cms/templates/js/course-outline.underscore
+#, python-format
+msgid "Paste %(xblock_type)s"
+msgstr ""
+
+#: cms/templates/js/course-outline.underscore
+msgid "From:"
+msgstr ""
+
+#: cms/templates/js/course-outline.underscore
+msgid "What's in my clipboard?"
+msgstr ""
+
+#: cms/templates/js/course-video-sharing-enable.underscore
+msgid "Video Sharing"
+msgstr ""
+
+#: cms/templates/js/course-video-sharing-enable.underscore
+msgid "Learn more"
+msgstr ""
+
+#: cms/templates/js/course_grade_policy.underscore
+msgid "Warning: "
+msgstr ""
+
+#: cms/templates/js/course_grade_policy.underscore
+msgid ""
+"The number of {type} assignments defined here does not match the current "
+"number of {type} assignments in the course:"
+msgstr ""
+
+#: cms/templates/js/course_grade_policy.underscore
+msgid "There are no assignments of this type in the course."
+msgstr ""
+
+#: cms/templates/js/course_grade_policy.underscore
+msgid "{assignment_count} {type} assignment(s) found:"
+msgstr ""
+
+#: cms/templates/js/course_grade_policy.underscore
+msgid ""
+"The number of {type} assignments in the course matches the number defined "
+"here."
+msgstr ""
+
+#: cms/templates/js/discussion-editor.underscore
+msgid "Enable discussion"
+msgstr ""
+
+#: cms/templates/js/discussion-editor.underscore
+msgid "Topics for unpublished units would not be created"
+msgstr ""
+
+#: cms/templates/js/discussion-editor.underscore
+msgid "Please enable discussions for graded units from course authoring app"
+msgstr ""
+
+#: cms/templates/js/self-paced-due-date-editor.underscore
+msgid "Due in:"
+msgstr ""
+
+#: cms/templates/js/self-paced-due-date-editor.underscore
+msgid "weeks from learner enrollment date"
+msgstr ""
+
+#: cms/templates/js/self-paced-due-date-editor.underscore
+msgid ""
+"If a learner starts on {startDate}, this subsection will be due on "
+"{projectedDueIn}."
+msgstr ""
+
+#: cms/templates/js/self-paced-due-date-editor.underscore
+msgid ""
+"The minimum number of weeks this subsection can be due in is 1 week from the "
+"learner enrollment date."
+msgstr ""
+
+#: cms/templates/js/summary-configuration-editor.underscore
+msgid "Xpert unit summaries"
+msgstr ""
+
+#: cms/templates/js/summary-configuration-editor.underscore
+msgid "Enable summaries"
+msgstr ""
+
+#: cms/templates/js/timed-examination-preference-editor.underscore
+msgid ""
+"This subsection was released to learners as a proctored exam, but was "
+"reverted back to a basic or timed exam. You may not configure it as a "
+"proctored exam now. Contact edX Support for assistance."
+msgstr ""
+
+#: cms/templates/js/timed-examination-preference-editor.underscore
+msgid ""
+"This proctored exam has been released to learners. You may not convert it to "
+"another type of special exam. You may revert this subsection back to being a "
+"basic exam by selecting 'None', or a timed exam, but you will NOT be able to "
+"configure it as a proctored exam in the future."
+msgstr ""
+
+#: cms/templates/js/timed-examination-preference-editor.underscore
+msgid ""
+"Proctored exams are timed and they record video of each learner taking the "
+"exam. The videos are then reviewed to ensure that learners follow all "
+"examination rules. Please note that setting this exam as proctored will "
+"change the visibility settings to \"Hide content after due date.\""
+msgstr ""
+
+#: cms/templates/js/transcript-organization-credentials.underscore
+msgid ""
+"This action updates the {provider} information for your entire organization."
+msgstr ""

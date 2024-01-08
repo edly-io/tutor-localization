@@ -1,0 +1,18 @@
+{
+  "discussion.blackoutBanner.information": "Posting in discussions is disabled by the course team",
+  "discussions.topics.discussions": "{count, plural, =0 {Discussion} one {# Discussion} other {# Discussions} }",
+  "discussions.topics.questions": "{count, plural, =0 {Question} one {# Question} other {# Questions} }",
+  "discussions.topics.createTopic": "Please contact you admin to create a topic",
+  "discussions.learner.sortFilterStatus": "All learners sorted by {sort, select, flagged {reported activity} activity {most activity} other {{sort}} }",
+  "discussions.comments.comment.addComment": "Add comment",
+  "discussions.comments.comment.responseCount": "{num, plural, =0 {No responses} one {Showing # response} other {Showing # responses} }",
+  "discussions.comments.comment.endorsedResponseCount": "{num, plural, =0 {No endorsed responses} one {Showing # endorsed response} other {Showing # endorsed responses} }",
+  "discussions.comments.comment.visibility": "This post is visible to {group, select, null {Everyone} other {{group}} }.",
+  "discussions.comments.comment.postedTime": "{postType, select, discussion {Discussion} question {Question} other {{postType}} } posted {relativeTime} by",
+  "discussions.comment.comments.fullStop": "•",
+  "discussions.comment.sortFilterStatus": "{sort, select, false {Oldest first} true {Newest first} other {{sort}} }",
+  "tour.body.responseSortTour": "Responses and comments are now sorted by newest first. Please use this option to change the sort order",
+  "discussions.post.unfollow.description": "you are not following this post",
+  "discussions.posts.actionBar.search": "{page, select, topics {Search topics} posts {Search all posts} learners {Search learners} myPosts {Search all posts} other {{page}} }",
+  "discussions.posts.sort-filter.sortFilterStatus": "{own, select, false {All} true {Own} other {{own}} } {status, select, statusAll {} statusUnread {unread} statusFollowing {followed} statusReported {reported} statusUnanswered {unanswered} statusUnresponded {unresponded} other {{status}} } {type, select, discussion {discussions} question {questions} all {posts} other {{type}} } {cohortType, select, all {} group {in {cohort}} other {{cohortType}} } sorted by {sort, select, lastActivityAt {recent activity} commentCount {most activity} voteCount {most likes} other {{sort}} }"
+}

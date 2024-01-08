@@ -1,0 +1,19 @@
+{
+  "account.settings.field.education.levels.other": "Other education",
+  "notification.preferences.notifications.label": "Notifications",
+  "id.verification.id.photo.instructions.upload": "Please upload a photo of your identification card. Ensure the entire ID fits inside the frame and is well-lit. The file size must be under 10 MB. Supported formats:",
+  "id.verification.id.photo.instructions.upload.error.invalidFileType": "The file you have selected is not a supported image type. Please choose from the following formats:",
+  "id.verification.submission.alert.error.unsupported": "One or more of the files you have uploaded is in an unsupported format. Please choose from the following:",
+  "notification.preference.heading": "Notifications",
+  "notification.preference.app.title": "{ key, select, discussion {Discussions} coursework {Course Work} other {{key}} }",
+  "notification.preference.title": "{ text, select, core {Core notifications} newDiscussionPost {New discussion posts} newQuestionPost {New question posts} other {{text}} }",
+  "notification.preference.type.label": "Type",
+  "notification.preference.web.label": "Web",
+  "notification.preference.help.email": "Email",
+  "notification.preference.help.push": "Push",
+  "notification.preference.load.more.courses": "Load more courses",
+  "notification.preference.guide.link": "as detailed here",
+  "notification.preference.guide.body": "Notifications for certain activities are enabled by default,",
+  "account.settings.delete.account.modal.after.header": "We're sorry to see you go! Your account will be deleted shortly.",
+  "idv.submission.alert.error": "We encountered a technical error while trying to submit ID verification. This might be a temporary issue, so please try again in a few minutes. If the problem persists, please go to {support_link} for help."
+}

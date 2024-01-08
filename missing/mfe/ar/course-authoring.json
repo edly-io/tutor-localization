@@ -1,0 +1,22 @@
+{
+  "course-authoring.page.title": "Course Authoring | {siteName}",
+  "authoring.discussions.appDocInstructions.linkText": "{link}",
+  "authoring.discussions.appConfigForm.appName-piazza": "Piazza",
+  "authoring.discussions.appConfigForm.appName-yellowdig": "Yellowdig",
+  "authoring.discussions.appConfigForm.appName-inscribe": "InScribe",
+  "authoring.discussions.appConfigForm.appName-discourse": "Discourse",
+  "authoring.discussions.appConfigForm.appName-ed-discuss": "Ed Discussion",
+  "authoring.discussions.appConfigForm.appName-legacy": "edX",
+  "authoring.discussions.appConfigForm.appName-openedx": "edX",
+  "authoring.blackoutDates.status": "{status}",
+  "authoring.discussions.appList.appName-legacy": "edX",
+  "authoring.discussions.appList.appName-openedx": "edX",
+  "authoring.discussions.appList.appDescription-openedx": "Enable participation in discussion topics alongside course content.",
+  "authoring.discussions.appList.appName-piazza": "Piazza",
+  "authoring.live.appDocInstructions.linkText": "{link}",
+  "authoring.live.appName-yellowdig": "Zoom",
+  "authoring.live.appName-googleMeet": "Google Meet",
+  "authoring.live.appName-microsoftTeams": "Microsoft Teams",
+  "authoring.live.appName-bigBlueButton": "BigBlueButton",
+  "zoom.global.creds.btn": "Enable Zoom Global Credentials"
+}
